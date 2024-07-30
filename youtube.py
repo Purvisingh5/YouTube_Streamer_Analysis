@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
-
+#data analyst at Intern Career Task 1
 # In[2]:
 
 
@@ -150,7 +150,7 @@ top_performers
 
 # MrBeast is the top  on the basis of Subscribers as compare to other content creaters
 
-# In[ ]:
+
 
 
 
